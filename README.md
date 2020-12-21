@@ -4,7 +4,7 @@
 
 <img src="https://github.com/mattheussAL/crud/blob/main/.github/Untitled_%20Dec%2021%2C%202020%201_55%20PM.gif" width="500" height="300" />
 
-## Instal
+## Install
 
 ```sh
 yarn || npm install
