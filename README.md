@@ -7,4 +7,4 @@
 
 ## Este pequeno consiste no estudo de CRUD com NodeJS e Javascript
 
-<img src="" width="800" height="400">
+<img src="https://github.com/mattheussAL/crud/blob/main/.github/Untitled_%20Dec%2021%2C%202020%201_55%20PM.gif" width="800" height="400">
